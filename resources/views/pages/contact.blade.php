@@ -3,10 +3,10 @@
 @section('content')
 @include('include/sidebar') 
 <div id="page-content-wrapper">
-    <img class="img" src="images/still1gr.jpg" alt="alt image" width="1440" height="600">
+    <img class="img" src="images/still1gr.jpg" alt="alt image" width="1440" height="600"><br>
 @include('include/gnav')
-<h1>Contact</h1>
-<form id="contact-form" method="post" action="#" role="form">
+<h1 class="pt-2">Contact</h1>
+<form class="p-2" id="contact-form" method="post" action="#" role="form">
 
     <div class="messages"></div>
 
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="col-md-12">
-                <input type="submit" class="btn btn-success btn-send" value="Send message">
+                <input type="submit" class="btn btn-primary btn-send" value="Send message">
             </div>
         </div>
         <div class="row">

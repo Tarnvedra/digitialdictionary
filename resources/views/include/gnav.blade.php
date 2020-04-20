@@ -1,4 +1,5 @@
-   <a href="#">A |</a>
+  <div class="gnav p-2">
+  <a href="/a">A |</a>
    <a href="#">B |</a>
    <a href="#">C |</a>
    <a href="#">D |</a>
@@ -24,3 +25,4 @@
    <a href="#">X |</a>
    <a href="#">Y |</a>
    <a href="#">Z</a>
+  </div>

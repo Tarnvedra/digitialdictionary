@@ -16,3 +16,4 @@ Route::get('/home' , 'PagesController@home');
 Route::get('/about' , 'PagesController@about');
 Route::get('/videos' , 'PagesController@videos');
 Route::get('/contact' , 'PagesController@contact');
+Route::get('/a' , 'PagesController@categorya');

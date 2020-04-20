@@ -2,13 +2,10 @@
 
     <!-- Sidebar -->
     <div class="bg-light border-right" id="sidebar-wrapper">
-   <!--   <div class="sidebar-heading">Site Map</div>  -->
+     <div class="sidebar-heading">Site Map</div> 
       <div class="list-group list-group-flush">
         <a href="/home" class="list-group-item list-group-item-action bg-light">Home</a>
-        <a href="/about" class="list-group-item list-group-item-action bg-light">About</a>
-        <a href="/videos" class="list-group-item list-group-item-action bg-light">Videos</a>
-        <a href="/contact" class="list-group-item list-group-item-action bg-light">Contact</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">A</a>
+        <a href="/a" class="list-group-item list-group-item-action bg-light">A</a>
         <a href="#" class="list-group-item list-group-item-action bg-light">B</a>
         <a href="#" class="list-group-item list-group-item-action bg-light">C</a>
         <a href="#" class="list-group-item list-group-item-action bg-light">D</a>
